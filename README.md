@@ -1,4 +1,4 @@
-# smart_energy_consumption_analysis
+# Smart Energy Consumption Analysis
 
 Smart Meter Data Analytics • EDA • Hypothesis Testing • Anomaly Detection
 
