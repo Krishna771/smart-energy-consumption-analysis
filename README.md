@@ -4,7 +4,7 @@ Smart Meter Data Analytics • EDA • Hypothesis Testing • Anomaly Detection
 
 ## View Project
 - Notebook: smart_energy_consumption_analysis.ipynb
-- HTML Version: smart_energy_consumption_analysis.html
+- HTML Version: [Open HTML Report](smart_energy_consumption_analysis.html)
 
 > If GitHub does not render the notebook preview correctly, open the HTML version.
 
