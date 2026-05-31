@@ -1,4 +1,4 @@
-# Smart Energy Consumption Analysis
+# smart_energy_consumption_analysis
 
 Smart Meter Data Analytics • EDA • Hypothesis Testing • Anomaly Detection
 
@@ -6,6 +6,13 @@ Smart Meter Data Analytics • EDA • Hypothesis Testing • Anomaly Detection
 
 ## Overview
 This project analyzes smart meter energy consumption data using data analytics and statistical techniques to identify trends, anomalies, and usage patterns.
+
+## Key Results
+- Analyzed over 3.5 million smart meter records.
+- Detected anomalous consumption patterns using IQR and Z-score methods.
+- Performed Chi-Square and T-Test statistical analysis.
+- Identified seasonal and monthly energy usage trends.
+- Generated energy-saving recommendations based on consumption behavior.
 
 ## Features
 - Data Cleaning and Preprocessing
@@ -32,7 +39,7 @@ This project analyzes smart meter energy consumption data using data analytics a
 ```text
 data/
 images/
-Smart Energy Consumption Analysis.ipynb
+smart_energy_consumption_analysis.ipynb
 requirements.txt
 README.md
 ```
