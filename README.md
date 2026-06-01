@@ -4,7 +4,7 @@ Smart Meter Data Analytics • EDA • Hypothesis Testing • Anomaly Detection
 
 ## View Project
 
-🔗 **Live Interactive Report:** [Open Here](https://krishna771.github.io/smart-energy-consumption-analysis/smart_energy_consumption_analysis.html)
+🔗 **Live Interactive Report:** [🔗 View Complete Analysis Report](https://krishna771.github.io/smart-energy-consumption-analysis/smart_energy_consumption_analysis.html)
 
 📓 **Jupyter Notebook:** [Open Notebook](smart_energy_consumption_analysis.ipynb)
 
